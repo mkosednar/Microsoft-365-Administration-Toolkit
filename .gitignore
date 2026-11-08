@@ -1,0 +1,5 @@
+# Local reports may contain tenant information
+Reports/
+*.csv
+*.log
+*.clixml
